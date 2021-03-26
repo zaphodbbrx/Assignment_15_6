@@ -1,0 +1,4 @@
+#ifndef ASSIGNMENT_15_6_SEA_BATTLE_H
+#define ASSIGNMENT_15_6_SEA_BATTLE_H
+void getShips();
+#endif //ASSIGNMENT_15_6_SEA_BATTLE_H
